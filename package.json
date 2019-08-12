@@ -1,6 +1,6 @@
 {
   "name": "getto-gitlab_api",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "gitlab_api : getto-psycher vendor plugin",
   "main": "index.js",
   "scripts": {

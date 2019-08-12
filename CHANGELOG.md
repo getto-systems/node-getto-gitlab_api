@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Version : 1.0.1
+
+fix: README See merge request getto-systems-labo/node/getto-gitlab_api!4
+
+
 ## Version : 1.0.0
 
 production ready! See merge request getto-systems-labo/node/getto-gitlab_api!3

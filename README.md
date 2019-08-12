@@ -2,6 +2,8 @@
 
 gitlab_api : getto-psycher vendor plugin
 
+status: production ready
+
 ```javascript
 const gitlab_api = require("getto-gitlab_api");
 

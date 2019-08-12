@@ -5,7 +5,7 @@ gitlab_api : getto-psycher vendor plugin
 status: production ready
 
 ```javascript
-const gitlab_api = require("getto-gitlab_api");
+const gitlab_api = require("getto-gitlab_api").init();
 
 gitlab_api.trigger({
   project_id: "PROJECT-ID",
@@ -32,7 +32,7 @@ gitlab_api.trigger({
 ## Usage
 
 ```javascript
-const gitlab_api = require("getto-gitlab_api");
+const gitlab_api = require("getto-gitlab_api").init();
 
 gitlab_api.trigger({
   project_id: "PROJECT-ID",

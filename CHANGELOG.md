@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Version : 1.0.4
+
+- fix: gitlab-ci : See merge request getto-systems-base/labo/node/getto-gitlab_api!10
+
+
 ## Version : 1.0.3
 
 
